@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @okanalatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Merhaba, ben @okanalatt
 
-<!---
-okanalatt/okanalatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Hakkımda
+
+- 👨‍🎓 Eğitimim:
+  - 🏫 Lise: Bilişim Teknolojileri Alanı – Web Programcılığı dalı
+  - 🎓 Ön Lisans: Bilgisayar Programcılığı
+  - 🎓 Lisans: Bilgisayar Mühendisliği (Son sınıf öğrencisiyim)
+
+- 👀 Yazılım geliştirme, web teknolojileri, .NET ve masaüstü uygulamalara ilgi duyuyorum.
+
+- 🌱 Şu anda C#, ASP.NET Core ve veritabanı yönetimi konularında kendimi geliştiriyorum.
+
+- 💞️ Açık kaynak projelere katkı sağlamak, ekip çalışmasına katılmak ve projelerimi paylaşmak istiyorum.
+
+- 📫 Bana ulaşmak için: **okanalat3@gmail.com** veya https://www.linkedin.com/in/okanalat3/ ile ulaşabilirsiniz.
+
+---
+
+## ⚙️ Kullandığım Teknolojiler:
+- C#, .NET Core, ASP.NET
+- HTML, CSS, JavaScript
+- SQL, PostgreSQL, MSSQL
+- Git & GitHub
+- Visual Studio, VS Code
+
+---
