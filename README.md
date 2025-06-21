@@ -12,6 +12,8 @@
 - 🌱 Şu anda C#, ASP.NET Core ve veritabanı yönetimi konularında kendimi geliştiriyorum.
 
 - 💞️ Açık kaynak projelere katkı sağlamak, ekip çalışmasına katılmak ve projelerimi paylaşmak istiyorum.
+  
+- 👨‍🎓 Profilimde bulunan konuları ve projeler eğitim niteliğindedir, A'dan Z'ye hepsi ayrıntılı ve açıklamalı bir şekilde yazılmıştır.
 
 - 📫 Bana ulaşmak için: **okanalat3@gmail.com** veya https://www.linkedin.com/in/okanalat3/ ile ulaşabilirsiniz.
 
